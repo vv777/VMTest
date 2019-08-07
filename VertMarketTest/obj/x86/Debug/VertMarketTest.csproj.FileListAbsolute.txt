@@ -1,0 +1,7 @@
+C:\Projects\VertMarketTest\bin\Debug\VertMarketTest.exe
+C:\Projects\VertMarketTest\bin\Debug\VertMarketTest.pdb
+C:\Projects\VertMarketTest\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\VertMarketTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Projects\VertMarketTest\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\VertMarketTest\obj\x86\Debug\VertMarketTest.exe
+C:\Projects\VertMarketTest\obj\x86\Debug\VertMarketTest.pdb
